@@ -36,7 +36,7 @@ dependencies: [
 このプロジェクトは、MITライセンスの下でライセンスされています。詳細については、LICENSEファイルをご覧ください。
 
 作者
-Your Name
+
 お問い合わせは happy-mongoloid@po-le.co までお気軽にどうぞ。
 サポート
 質問や問題があれば、Issuesにご投稿ください。
