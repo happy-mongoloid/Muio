@@ -1736,35 +1736,35 @@
     {
       "filePath": "\/Users\/demiannezhdanov\/Projects\/myFRAMEWORKS\/FRamework\/Muio\/Muio\/Device\/MetalDevice.swift",
       "kind": "StringLiteral",
-      "offset": 2454,
+      "offset": 3354,
       "length": 14,
       "value": "\"vertexShader\""
     },
     {
       "filePath": "\/Users\/demiannezhdanov\/Projects\/myFRAMEWORKS\/FRamework\/Muio\/Muio\/Device\/MetalDevice.swift",
       "kind": "StringLiteral",
-      "offset": 2833,
+      "offset": 3733,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/demiannezhdanov\/Projects\/myFRAMEWORKS\/FRamework\/Muio\/Muio\/Device\/MetalDevice.swift",
       "kind": "Array",
-      "offset": 6716,
+      "offset": 7616,
       "length": 34,
       "value": "[0, 1, 2, 2, 3, 0]"
     },
     {
       "filePath": "\/Users\/demiannezhdanov\/Projects\/myFRAMEWORKS\/FRamework\/Muio\/Muio\/Device\/MetalDevice.swift",
       "kind": "StringLiteral",
-      "offset": 6831,
+      "offset": 7731,
       "length": 14,
       "value": "\"vertexShader\""
     },
     {
       "filePath": "\/Users\/demiannezhdanov\/Projects\/myFRAMEWORKS\/FRamework\/Muio\/Muio\/Device\/MetalDevice.swift",
       "kind": "IntegerLiteral",
-      "offset": 31026,
+      "offset": 31926,
       "length": 1,
       "value": "0"
     }
